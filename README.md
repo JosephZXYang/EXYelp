@@ -1,6 +1,6 @@
 # EXYelp
 
-A full-stack full-stack project implementing a Yelp-like rate/comment application
+A full-stack  implementing a Yelp-like review/recommendation web app
 
 Tech Stack:
 * HTML5/CSS
